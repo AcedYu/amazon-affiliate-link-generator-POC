@@ -5,6 +5,9 @@ import ProductForm from "../components/ProductForm.js";
 
 const Search = () => {
   var affiliate = document.location.pathname.split('=')[1];
+  if (affiliate.includes('%20')) {
+    affiliate = affiliate.split('%20').join(' ');
+  }
   affiliate = affiliate.charAt(0).toUpperCase() + affiliate.slice(1);
   return (
     <div>

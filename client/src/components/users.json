@@ -1,0 +1,32 @@
+[
+  {
+    "name": "In Ruff Company",
+    "origin": "Youtube",
+    "image": "https://i.ytimg.com/vi/btztdQGX7Ko/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYScMUB1UK1hTG6Cg7zWsgeegBCg",
+    "links": [
+      "B08W7BQ9NZ&asins=B08W7BQ9NZ&linkId=345054473db6b83da7df278799a0afc1",
+      "B088BCQ6SD&asins=B088BCQ6SD&linkId=16235e4f0ee99582ea9ed0086810f439",
+      "B00UAINMNO&asins=B00UAINMNO&linkId=527f015b908dc13a2f7a5d052f9136f2"
+    ]
+  },
+  {
+    "name": "Chris Fleming",
+    "origin": "Youtube",
+    "image": "https://i.ytimg.com/vi/kHcWZDih-Qc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfUoI4kIrhYO_DMia6dokWtDsTWw",
+    "links": [
+      "B08CTKT8BN&asins=B08CTKT8BN&linkId=49c734c2a68224de5eec87008703c1fd",
+      "B089RTRDNT&asins=B089RTRDNT&linkId=ebc025ac7af760c2b9f444037a1d1438",
+      "B08B3FL13M&asins=B08B3FL13M&linkId=077f85ddb9d735e8e8e3d1982c2aeeda"
+    ]
+  },
+  {
+    "name": "kerrDOG",
+    "origin": "Twitch",
+    "image": "https://ucarecdn.com/aa660d11-d244-4ed3-95c2-c701f095c314/",
+    "links": [
+      "B07GBZ4Q68&asins=B07GBZ4Q68&linkId=2caea1fb3bdb3c043d16b4eff654e923",
+      "B00NLZUM36&asins=B00NLZUM36&linkId=76f0d7cb7179da38770024a205a58432",
+      "B07L1LJ8GC&asins=B07L1LJ8GC&linkId=234366b74b6d99168b147fe59d51a1e5"
+    ]
+  }
+]
