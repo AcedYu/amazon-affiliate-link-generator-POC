@@ -42,7 +42,7 @@ npm start
 
 ## Deployed Link
 
-* [See Live Site](INSERT LINK HERE)
+* [See Live Site](https://community-link-chest.herokuapp.com/)
 
 ## Authors
 AcedYu
